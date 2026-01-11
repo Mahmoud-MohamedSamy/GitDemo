@@ -69,5 +69,6 @@ public class StepDefinition extends Utils{
 	public void delete_place_payload() throws IOException {
 		requestAdd = given().spec(requestSpecification()).body(data.deletePlacePayload(place_id));
 	}
+	//GitDemoProjectUpdate
 
 }
