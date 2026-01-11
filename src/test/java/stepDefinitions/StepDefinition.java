@@ -10,7 +10,6 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.http.ContentType;
-import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import resources.*;
